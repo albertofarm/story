@@ -1,0 +1,116 @@
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Downloaded Web Sites\storycash.app\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js
+File Name: C:\Downloaded Web Sites\storycash.app\ajax\libs\jquery.mask\1.14.0\jquery.mask.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.1.min.js
+File Name: C:\Downloaded Web Sites\storycash.app\jquery-3.6.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.cdnfonts.com/css/instagram-sans-2
+File Name: C:\Downloaded Web Sites\storycash.app\css\instagram-sans-2
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/css/sf-ui-display
+File Name: C:\Downloaded Web Sites\storycash.app\css\sf-ui-display
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/14247/sf-ui-display-black-58646a6b80d5a.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\14247\sf-ui-display-black-58646a6b80d5a.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/14247/sf-ui-display-bold-58646a511e3d9.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\14247\sf-ui-display-bold-58646a511e3d9.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/14247/sf-ui-display-heavy-586470160b9e5.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\14247\sf-ui-display-heavy-586470160b9e5.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/14247/sf-ui-display-light-58646b33e0551.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\14247\sf-ui-display-light-58646b33e0551.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/14247/sf-ui-display-medium-58646be638f96.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\14247\sf-ui-display-medium-58646be638f96.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/14247/sf-ui-display-semibold-58646eddcae92.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\14247\sf-ui-display-semibold-58646eddcae92.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/14247/sf-ui-display-thin-58646e9b26e8b.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\14247\sf-ui-display-thin-58646e9b26e8b.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/14247/sf-ui-display-ultralight-58646b19bf205.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\14247\sf-ui-display-ultralight-58646b19bf205.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/93599/Instagram Sans Bold.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\93599\Instagram Sans Bold.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/93599/Instagram Sans Headline.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\93599\Instagram Sans Headline.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/93599/Instagram Sans Light.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\93599\Instagram Sans Light.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/93599/Instagram Sans Medium.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\93599\Instagram Sans Medium.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/93599/Instagram Sans.woff
+File Name: C:\Downloaded Web Sites\storycash.app\s\93599\Instagram Sans.woff
+Content Type: font/woff
+
+Uri: https://storycash.app/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\storycash.app\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://storycash.app/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\storycash.app\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://storycash.app/build/assets/app-1Gk-5UBg.css
+File Name: C:\Downloaded Web Sites\storycash.app\build\assets\app-1Gk-5UBg.css
+Content Type: text/css
+
+Uri: https://storycash.app/build/assets/app-CCO7zx73.js
+File Name: C:\Downloaded Web Sites\storycash.app\build\assets\app-CCO7zx73.js
+Content Type: application/x-javascript
+
+Uri: https://storycash.app/build/assets/pixTeste-1jh7HXxK.js
+File Name: C:\Downloaded Web Sites\storycash.app\build\assets\pixTeste-1jh7HXxK.js
+Content Type: application/x-javascript
+
+Uri: https://storycash.app/livewire/livewire.min.js?id=44144c23
+File Name: C:\Downloaded Web Sites\storycash.app\livewire\livewire.min.js
+Content Type: application/javascript
+
+Uri: https://storycash.app/pressel/pix
+File Name: C:\Downloaded Web Sites\storycash.app\pressel\pix.html
+Content Type: text/html
+
+Uri: https://unpkg.com/zuck.js@2.1.0/dist/skins/snapgram.css
+File Name: C:\Downloaded Web Sites\storycash.app\zuck.js@2.1.0\dist\skins\snapgram.css
+Content Type: text/css
+
+Uri: https://unpkg.com/zuck.js@2.1.0/dist/zuck.css
+File Name: C:\Downloaded Web Sites\storycash.app\zuck.js@2.1.0\dist\zuck.css
+Content Type: text/css
+
+Uri: https://unpkg.com/zuck.js@2.1.0/dist/zuck.js
+File Name: C:\Downloaded Web Sites\storycash.app\zuck.js@2.1.0\dist\zuck.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=1317967105689966&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\storycash.app\tr
+Content Type: text/plain
+
